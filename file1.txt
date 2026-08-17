@@ -1,0 +1,3 @@
+My first Git lab
+Learning Git Commands
+checking for "clean" or "updated" display of git after commiting a new change
